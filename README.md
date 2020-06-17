@@ -1,6 +1,11 @@
 # Anglicisms (The evolution of borrowings in social network texts)
 HSE Magolego SNA project
 
+### Data files
+All data (initial and generated) can be found here 
+
+https://drive.google.com/drive/folders/1F-pm_J-eKZAd7-PxnzZdCpKfAMlFs6Ke?usp=sharing
+
 ### Short guidline
 
 * "json_parsing.ipynb": creation of posts_info dataset that contains AuthorID, OwnerID, CreatedDate, SearchQuery, AuthorType, OwnerType (type is 0 if group, type is 1 if user).
