@@ -1,4 +1,4 @@
-# Anglicisms (The evolution of borrowings in social network texts)
+# Anglicisms
 HSE Magolego SNA project
 
 ### Data files
